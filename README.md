@@ -3,7 +3,7 @@
 ## Topic of Team project
 
 ```
-Additional functionality & Supplement in Smart Campus
+Ajou University Code Submission System
 ```
 
 ## Member
